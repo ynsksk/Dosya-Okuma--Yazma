@@ -8,7 +8,7 @@ düzenleme yapar"
 	#'w+'==>"okuma ve yazmaya yarar dosya var ise siler"
 	#'a+'==>"okuma ve yazmaya yarar"
 	#'x+'==>"okuma ve yazmaya yarar dosya varsa hata verir"
-		#örnek 1
+		#örnek 1mlm
 	#Burda dosya yoksa açar var ise siler ve "merhaba yunus" yazar
 	#with kullanmamýzýn amacý dosyayý kapatmayý unutursan
 	python kendiliðinden kapatýr
